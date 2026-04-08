@@ -1,0 +1,2 @@
+Hello, World! This is Python File Handling.
+Always use the 'with' statement for safer code.
