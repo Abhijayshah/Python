@@ -1,43 +1,3 @@
-Python is a high-level, general-purpose programming language designed for readability and simplicity. Created by Guido van Rossum in 1991, it has become one of the world's most popular languages due to its English-like syntax and versatility. [1, 2, 3] 
-## Key Characteristics
-
-* Interpreted: Code is executed line-by-line, which allows for fast prototyping and easier debugging.
-* Dynamically Typed: You don't need to declare variable types (like int or string); Python determines them at runtime.
-* Indentation-Based: Instead of curly braces {} or keywords, Python uses whitespace indentation to define code blocks.
-* Multi-Paradigm: It supports object-oriented, procedural, and functional programming styles. [1, 2, 4, 5, 6] 
-
-## Common Use Cases
-
-* Data Science & AI: Used extensively for data analysis, visualization, and building machine learning models with libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://scipy.org/), and TensorFlow.
-* Web Development: Powers the "back-end" of websites (server-side logic) using frameworks like Django and Flask.
-* Automation & Scripting: Ideal for automating repetitive tasks, such as renaming files, web scraping, or sending automated emails.
-* Software Testing: Used to create automated test scripts for new software features. [3, 4] 
-
-## The Python Ecosystem
-The language is managed by the [Python Software Foundation](https://www.python.org/psf-landing/) (PSF). As of 2026, the most recent stable releases are in the Python 3.x series, with Python 3.14 being the latest version. Beginners often start with the [official Python tutorial](https://docs.python.org/3/tutorial/index.html) or interactive platforms like [W3Schools](https://www.w3schools.com/python/) and [Codecademy](https://www.codecademy.com/catalog/language/python). [1, 7, 8, 9, 10, 11] 
-Would you like a code example for a specific task, or help installing Python on your computer?
-
-[1] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
-[2] [https://www.w3schools.com](https://www.w3schools.com/python/python_intro.asp)
-[3] [https://www.coursera.org](https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python)
-[4] [https://aws.amazon.com](https://aws.amazon.com/what-is/python/)
-[5] [https://www.ko2.co.uk](https://www.ko2.co.uk/c-plus-plus-vs-python/)
-[6] [https://unacademy.com](https://unacademy.com/content/cbse-class-11/study-material/computer-science/features-of-python/#:~:text=Dynamically%20typed:%20Dynamically%20typed%20means%20the%20programmer,the%20dynamically%20typed%20aspect%20of%20the%20language.)
-[7] [https://www.python.org](https://www.python.org/psf-landing/#:~:text=The%20Python%20Software%20Foundation%20is%20the%20charitable,before%20they%27re%20gone!%20REGISTER%20FOR%20PYCON%20US!)
-[8] https://www.python.org
-[9] [https://www.w3schools.com](https://www.w3schools.com/python/)
-[10] [https://www.codecademy.com](https://www.codecademy.com/catalog/language/python)
-[11] [https://docs.python.org](https://docs.python.org/3/tutorial/index.html)
-
-
-
-
-This is a fantastic plan for your YouTube channel. You have the perfect balance of **theory (for beginners)** and **practical application (for interview prep)** .
-
-Below is your **complete Episode 1 script** and **Playlist Roadmap**. You can read this directly or use it as bullet points.
-
----
-
 # 🎥 YouTube Video 1: Python Intro + Interview Roadmap
 
 ## [0:00] Hook
@@ -162,11 +122,3 @@ print(data)
 > 🔗 **Next Episode:** Installing Python 3.14 & Your first "Hello, World" script.
 > 
 > #PythonTutorial #LearnPython #PythonInterview #BackendDev #DataScience
-
----
-
-### Pro Tip for you as a YouTuber:
-When you get to the **"Table of Contents"** section, **Pin a comment** below the video that says:
-> *"Jump to Backend Roadmap: [Timestamp] | Jump to Data Analyst Roadmap: [Timestamp]"*
-
-This will help your retention rate because students will skip to their section but stay on your video. Good luck!
