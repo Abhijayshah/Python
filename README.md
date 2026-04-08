@@ -1,14 +1,18 @@
 # 🐍 Python for Interviews: 2026 Masterclass
 
-Welcome to the **Tech Toolbox Skills** repository! This is a comprehensive, job-focused guide designed to take you from zero to interview-ready in Python. Whether you're aiming for a role in Backend Development, Data Analysis, or AI/Automation, this project is your definitive companion.
+Welcome to My ** Python ** repository! This is a comprehensive, job-focused guide designed to take you from zero to interview-ready in Python. Whether you're aiming for a role in 
+- Backend Development, 
+- Data Analysis, or 
+- AI/Automation, this project is your definitive companion.
 
 ---
 ![alt text](python-image.png)
 
+
 ## 🚀 Why This Repository?
 Preparing for a technical interview is different from just learning a language. This repository focuses on the **exact questions and concepts** that top companies ask in 2026.
 
-### ❓ Frequently Asked Questions
+### Let us See : FAQ ❓ Frequently Asked Questions
 - **What is Python?**  
   Python is a high-level, general-purpose programming language designed for readability and simplicity. Its English-like syntax makes it the most popular language for beginners and experts alike in Data Science, Web Development, and AI.
 - **Is Python a Frontend or Backend Language?**  
