@@ -3,7 +3,7 @@ Here is the **definitive Table of Contents (Syllabus)** specifically tailored fo
 This is the **most advanced** of the three roles. Your students need **Python + AI Libraries + Automation Tools + Real Projects**. I have organized this into **7 Phases** with **3 Portfolio Projects** at the end.
 
 ---
-
+![alt text](python-image.png)
 # 🤖 AI / Automation Engineer Python Syllabus (Job-Focused)
 
 ## The Core Difference

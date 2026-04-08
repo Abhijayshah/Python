@@ -3,6 +3,7 @@ Here is the **definitive Table of Contents (Syllabus)** specifically tailored fo
 I have organized this into **5 Phases**. Most YouTube tutorials stop at Phase 2, but interviewers ask about Phases 3 and 4 constantly.
 
 ---
+![alt text](python-image.png)
 
 # 🗺️ Backend Developer Python Syllabus (Django/Flask Focus)
 

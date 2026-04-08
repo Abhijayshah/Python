@@ -3,6 +3,7 @@ Here is the **definitive Table of Contents (Syllabus)** specifically tailored fo
 Unlike Backend Developers, Data Analysts don't need OOP or Decorators. They need **Data Manipulation, Aggregation, and Visualization**. I have organized this into **6 Phases**.
 
 ---
+![alt text](python-image.png)
 
 # 📊 Data Analyst Python + SQL Syllabus (Job-Focused)
 
