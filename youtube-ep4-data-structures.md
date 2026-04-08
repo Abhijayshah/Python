@@ -1,5 +1,6 @@
 # 🎥 YouTube Video 4: Data Structures (Lists, Tuples, Dicts, Sets)
-
+![alt text](python-image.png)
+[README.md](README.md)
 ## [0:00] Hook
 **Say this:**
 > "If you only learn one thing from this entire playlist, make it this video. Data structures are the heart of Python. In every interview, you'll be asked: 'Should you use a List or a Tuple?' or 'Why is a Dictionary faster than a List?' Today, we're going to answer those questions once and for all."

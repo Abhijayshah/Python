@@ -1,4 +1,6 @@
 # 🎥 YouTube Video 3: Loops & Conditionals (The Logic of Python)
+![alt text](python-image.png)
+[README.md](README.md)
 
 ## [0:00] Hook
 **Say this:**

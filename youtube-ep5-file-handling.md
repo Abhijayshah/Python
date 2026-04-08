@@ -1,5 +1,7 @@
 # 🎥 YouTube Video 5: File Handling (Reading TXT, CSV, and JSON)
 
+![alt text](python-image.png)
+[README.md](README.md)
 ## [0:00] Hook
 **Say this:**
 > "In the real world, data doesn't live inside your code—it lives in files. If you're a Data Analyst or a Backend Developer, your first task will often be: 'Read this file and tell me what's inside.' Today, we're mastering File Handling in Python. We'll learn how to open, read, and write to TXT, CSV, and JSON files like a pro."

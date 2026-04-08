@@ -1,4 +1,7 @@
 # 🎥 YouTube Video 1: Python Intro + Interview Roadmap
+![alt text](python-image.png)
+[README.md](README.md)
+
 
 ## [0:00] Hook
 **Say this:**

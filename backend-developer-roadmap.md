@@ -4,6 +4,7 @@ I have organized this into **5 Phases**. Most YouTube tutorials stop at Phase 2,
 
 ---
 ![alt text](python-image.png)
+[README.md](README.md)
 
 # 🗺️ Backend Developer Python Syllabus (Django/Flask Focus)
 

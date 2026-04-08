@@ -1,5 +1,6 @@
 # 🎥 YouTube Video 2: Installing Python & Your First Script (2026)
-
+![alt text](python-image.png)
+[README.md](README.md)
 ## [0:00] Hook
 **Say this:**
 > "In Episode 1, we saw the roadmap. Today, we are getting our hands dirty. We are installing Python 3.14, writing our first script, and most importantly—we are going to **break it**. Because if you don't know how to fix a script, you'll never pass a live coding interview."

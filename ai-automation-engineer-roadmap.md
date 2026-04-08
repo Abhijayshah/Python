@@ -4,6 +4,7 @@ This is the **most advanced** of the three roles. Your students need **Python + 
 
 ---
 ![alt text](python-image.png)
+[README.md](README.md)
 # 🤖 AI / Automation Engineer Python Syllabus (Job-Focused)
 
 ## The Core Difference

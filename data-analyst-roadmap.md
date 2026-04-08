@@ -4,6 +4,7 @@ Unlike Backend Developers, Data Analysts don't need OOP or Decorators. They need
 
 ---
 ![alt text](python-image.png)
+[README.md](README.md)
 
 # 📊 Data Analyst Python + SQL Syllabus (Job-Focused)
 
