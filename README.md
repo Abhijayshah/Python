@@ -90,6 +90,7 @@ Each episode includes a **Video Script (.md)** for theory and a **Python File (.
 | **Ep 3** | Loops & Conditionals (FizzBuzz) | [Script](youtube-ep3-loops-conditionals.md) | [Code](episode3_loops_conditionals.py) |
 | **Ep 4** | Data Structures (List, Dict, Set) | [Script](youtube-ep4-data-structures.md) | [Code](episode4_data_structures.py) |
 | **Ep 5** | File Handling (TXT, CSV, JSON) | [Script](youtube-ep5-file-handling.md) | [Code](episode5_file_handling.py) |
+| **Ep 6** | OOP (Classes & Objects) | [Script](youtube-ep6-oop-classes.md) | [Code](episode6_oop_classes.py) |
 
 ---
 
